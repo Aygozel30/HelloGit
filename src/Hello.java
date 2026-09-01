@@ -13,5 +13,8 @@ public class Hello {
 		
 		System.out.println("Aygozel Berdiyeva");
 		System.out.println("Computer Science");
+		System.out.println("Gabe Mozingo");
+		System.out.println("Computer Science");
+		
 	}
 }
